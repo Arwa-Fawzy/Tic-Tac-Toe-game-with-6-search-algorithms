@@ -1,4 +1,4 @@
-![image](https://github.com/Arwa-Fawzy/Tic-Tac-Toe-game-with-6-search-algorithms/assets/101527083/95e6a60f-c96f-494a-be33-f6a35191ca86)# Tic-Tac-Toe-game-with-7-search-algorithms
+# Tic-Tac-Toe-game-with-7-search-algorithms
 This Python code uses Tkinter to create a Tic-Tac-Toe game where players can play against a computer employing search algorithms like DFS, BFS, IDDFS UCS, Greedy Search, and A*. 
 
 ## DFS
